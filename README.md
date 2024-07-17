@@ -1,3 +1,3 @@
 # Mini-Project-FetalAI-Using-machine-learning-to-predict-and-monitor-fetal-health-
 # Demo link
-"C:\Users\sweth\OneDrive\Desktop\7.Documentation &Demonstration\Project Demo.mp4"
+https://drive.google.com/file/d/1naHIollY6tmYg7lrF5UbUIjlXvRV_Gw1/view?usp=sharing
